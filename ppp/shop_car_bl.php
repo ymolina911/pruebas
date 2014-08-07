@@ -1,4 +1,8 @@
 <?php
+
+
+//
+
 session_start();
 include_once('../dl/shop_car_dao.php');
 //variable que almacena la operacion a realizar
